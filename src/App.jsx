@@ -2,6 +2,7 @@ import React from "react";
 import Table from "./Table";
 /*Add import statement here*/
 import List from './List';
+import Header from './Header';
 
 
 class App extends React.Component {
@@ -97,7 +98,7 @@ class App extends React.Component {
       <div>
         <div className="Box Box--spacious f4">
           <div className="Box-header">
-            {/* Replace this line with the proper header code*/}
+            <Header />
           </div>
         </div>
         <nav className="UnderlineNav d-flex flex-justify-center">
