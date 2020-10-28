@@ -1,5 +1,5 @@
-This is your template repository!
+## This is your template repository School Management Software!
 
-You will make all changes in the `changes` branch.
+A small management software for the school as an example made in react.
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+Where you can assign homework to the student and give him a grade.
